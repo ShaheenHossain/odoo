@@ -25,7 +25,7 @@ Odoo Apps can be used as stand-alone applications, but they also integrate seaml
 a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
 
 
-Getting started with Odoo
+Getting started with Odoo 12
 -------------------------
 For a standard installation please follow the <a href="https://www.odoo.com/documentation/master/setup/install.html">Setup instructions</a>
 from the documentation.
